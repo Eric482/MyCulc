@@ -26,7 +26,7 @@ Requirements:
 
 # Presentation
 <h4 align="left">Визуально калькулятор выглядит так:</h4>
-<img src="(https://github.com/Eric482/MyCulc/blob/main/imgCalc.png)">
+<img src="https://github.com/Eric482/MyCulc/blob/main/imgCalc.png">
 
 # Function
 - Стандартная функциональность калькулятора, которая предлагает основные операции и оценивает команды сразу после их ввода.
